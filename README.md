@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Arkem001209
-- 👀 I’m interested in learning how to code!
-- 🌱 I’m currently learning to code using Python 3.0, Java, HTML, CSS and Javascript
+- 👋 Hi, I’m Max Arkell
+- 👀 I’m interested in learning how to code whilst working in the operations department of a wealth management firm
+- I primarily work in Python using my coding knowledge to build automation solutions for the firms client teams.
+- I’m currently learning to code using Python 3.0, Java, HTML, CSS and Javascript in my work and personal study.
 - Im completing the Odin Project and a Java masterclass on Udemy
