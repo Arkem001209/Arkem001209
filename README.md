@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- I’m interested in learning how to code whilst working in the operations department of a wealth management firm
+- I’m learning how to code whilst working in the operations department of a wealth management firm
 - I primarily work in Python using my coding knowledge to build automation solutions for the firms client teams.
 - I am also working on my own personal web development projects and sharpening my python programming skills
 - I’m currently using Python 3.0, Java, HTML, CSS and Javascript in my work and personal study.
