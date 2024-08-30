@@ -1,5 +1,6 @@
-- Hi im Max. I am learning how to code whilst working in the operations department of a wealth management firm.
-- I primarily work in Python using my coding knowledge to build automation solutions for the firms client teams.
-- I am also working on my own personal web development projects and sharpening my python programming skills.
-- I’m currently using Python 3.0, Java, HTML, CSS and Javascript in my work and personal study.
+- Hi im Max. I am learning how to code whilst looking for data and software development roles.
+- I have recently moved to Australia where ill be living for at least the next year.
+- I primarily work in SQL, Python and C# using my coding knowledge and my experience covers automation, data management, data visualisation and bespoke software solutions for financial services.
+- I am also working on my own personal software and data projects to sharpen my programming skills.
+- I’m currently using SQL, Python, Java and c# in my work and personal projects.
 - My current project is a Java fitness application called "Do Your Zone 2" which tracks dedication to sticking to zone 2 heart rate zones during aerobic exercise. Im using this project to learn Java.
